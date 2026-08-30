@@ -1,0 +1,45 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Godot
+.import/
+export.cfg
+export_presets.cfg
+.mono/
+data_*/
+
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.env
+.idea/
+.vscode/
+*.swp
+*~
+
+# Node (if web)
+node_modules/
+dist/
+build/
